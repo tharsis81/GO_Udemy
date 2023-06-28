@@ -2,7 +2,7 @@
  go mod init github.com/tharsis81/GO_Udemy
 
  # Useful tips\commands
- CTRL+D - označimo in lahko urejamo v več vrsticah hkrati
+ CTRL+D - označimo in lahko urejamo v več vrsticah hkrati, označimo in potem pritiskamo ctrl+D da označimo vse v kodi
  SHIFT+ALT+DOWN - dupliramo vrstic
  ALT+DOWN - premikamo vrstico
  ALT+KLIK - naredimo več cursorjev in začnemo tipkat
